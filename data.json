@@ -26,22 +26,22 @@
         },        
         {
             "sound":"villageoisMinecraft.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/minecraftVillageois.PNG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/minecraftVillageois.png?raw=true",
             "category" : "Jeux vidéos"
         },
         {
             "sound":"niceDay.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/niceday.JPG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/niceday.jpg?raw=true",
             "category" : "Viva la dirt league"
         },
         {
             "sound":"ntm.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/ntm.PNG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/ntm.png?raw=true",
             "category" : "Maxenss"
         },
         {
             "sound":"roubignolles.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/roubignolles.PNG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/roubignolles.png?raw=true",
             "category" : "Maxenss"
         },
         {
@@ -51,12 +51,12 @@
         },
         {
             "sound":"Bonjour.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/Bonjour.JPG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/Bonjour.jpg?raw=true",
             "category" : "Vald"
         },
         {
             "sound":"Motus.mp3",
-            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/Motus.PNG?raw=true",
+            "image": "https://github.com/Blayke/SoundBoxReact/blob/master/public/images/Motus.png?raw=true",
             "category" : "Télévision"
         }
     ]
